@@ -19,7 +19,8 @@ Dosen Pengampu   : Donny Maulana, S.Kom., M.M.S.I.
 ## TUTORIAL PDF
 Berikut merupakan tutorial untuk menjalankan program aplikasi pada Android Studio
 
-[Tutorial Final Project UAS PMobile1.pdf](https://github.com/alfaza-putra/PROJECT-UASPM1/files/13947395/Tutorial.Final.Project.UAS.PMobile1.pdf)
+[Tutorial Final Project UAS PMobile1.pdf](https://github.com/alfaza-putra/PROJECT-UASPM1/files/13947479/Tutorial.Final.Project.UAS.PMobile1.pdf)
+
 
 
 > **Pada tugas akhir ini. saya akan menambahkan video trailer di setiap film dari tugas tugas sebelumnya..**
